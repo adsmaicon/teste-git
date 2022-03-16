@@ -1,5 +1,3 @@
 #!/usr/bin/env node
 
-console.log('Aula de git ');
-
-console.log('Hooks ');
+npm init
